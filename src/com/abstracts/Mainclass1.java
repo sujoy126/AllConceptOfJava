@@ -26,7 +26,7 @@ class Workmen extends Work
 
 public class Mainclass1 {
 	public static void main(String[]args) {
-		Workmen w1= new Workmen();
+		Work w1= new Workmen();
 		w1.startWork();
 		w1.stopWork();
 	}

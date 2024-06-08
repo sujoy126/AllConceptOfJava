@@ -11,7 +11,7 @@ public class UseIterator {
 		st.add(989);
 		System.out.println(st);
 		Iterator it = st.iterator();
-		while(it.hasNext()==true)
+		while(it.hasNext())
 		{
 			int  i = (Integer)it.next();
 			System.out.println(i);

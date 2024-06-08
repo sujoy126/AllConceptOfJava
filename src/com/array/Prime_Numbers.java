@@ -26,7 +26,6 @@ public class Prime_Numbers {
 			 }
 			} 
 		}
-		
 			 if(count==2)
 				System.out.println(prim[j]+ " is prime");
 		

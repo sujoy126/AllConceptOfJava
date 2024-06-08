@@ -12,9 +12,9 @@ public class P1 {
 		m1.put(104, "Kerala");
 		System.out.println(m1);
 		
-		Map m2= new HashMap();
-		  m2.put(m1, m2);
-		
+//		Map m2= new HashMap();
+//		  m2.put(m1, m2);
+//		
 
 	}
 
